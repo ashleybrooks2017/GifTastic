@@ -1,0 +1,29 @@
+.display-3{
+	color: #0000FF;
+	font-family: 'Boogaloo', cursive;
+}
+
+.lead{
+	font-family: 'Neucha', cursive;
+}
+
+#animal-form{
+	font-family: 'Neucha', cursive;
+}
+
+#animals-btns{
+font-family: 'Neucha', cursive;
+}
+
+.animal {
+  margin: 5px;
+}
+.item {
+  float: left;
+  margin: 5px;
+}
+.jumbotron {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #D8BFD8;
+}
